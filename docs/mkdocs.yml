@@ -5,7 +5,7 @@ site_url: https://siper.github.io/creality-k1-wiki/
 repo_url: https://github.com/siper/creality-k1-wiki
 edit_uri: edit/master/docs/docs
 
-theme: material
+theme: 'material'
 
 nav:
   - Главная: index.md
