@@ -8,4 +8,4 @@ edit_uri: edit/master/docs/docs
 theme: material
 
 nav:
-  - Home: index.md
+  - Главная: index.md
