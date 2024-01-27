@@ -10,4 +10,4 @@ theme:
   language: ru
 
 nav:
-  - Главная: index.md
+  - index.md
