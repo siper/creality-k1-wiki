@@ -1,0 +1,11 @@
+site_name: Creality K1 Wiki
+site_description: База знаний по 3D принтерам Creality K1, K1 Max, K1C
+site_url: https://siper.github.io/creality-k1-wiki/
+
+repo_url: https://github.com/siper/creality-k1-wiki
+edit_uri: edit/master/docs/docs
+
+theme: material
+
+nav:
+  - Home: index.md
