@@ -1,5 +1,3 @@
-.PHONY: docs
-
 default: install
 
 all: install build
