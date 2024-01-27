@@ -7,7 +7,7 @@ edit_uri: blob/master/docs/
 
 theme: 
   name: material
-  locale: ru
+  language: ru
 
 nav:
   - Главная: index.md
