@@ -12,6 +12,7 @@ nav:
   - Добавление информации: contribution.md
   - Софт:
     - Получение Root доступа: root.md
+    - Подключение к принтеру по SSH: ssh.md
 
 markdown_extensions:
   - attr_list
