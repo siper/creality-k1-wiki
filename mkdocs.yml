@@ -9,4 +9,4 @@ theme:
 nav:
   - index.md
   - Обслуживание и профилактика: care.md
-  - Добавление информации: care.md
+  - Добавление информации: contribution.md
