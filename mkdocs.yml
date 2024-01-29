@@ -10,3 +10,7 @@ nav:
   - index.md
   - Обслуживание и профилактика: care.md
   - Добавление информации: contribution.md
+
+markdown_extensions:
+  - attr_list
+  - admonition
