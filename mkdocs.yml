@@ -10,7 +10,11 @@ nav:
   - index.md
   - Обслуживание и профилактика: care.md
   - Добавление информации: contribution.md
+  - Софт:
+    - Получение Root доступа: root.md
 
 markdown_extensions:
   - attr_list
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
