@@ -72,6 +72,7 @@ cd && sh ./installer.sh
 
 #### 13) Usefull Macros
 Установка полезных макросов:
+
 1. **BED_LEVELING** - запуск измерения уровня стола
 2. **PID_BED** - калибровка PID стола
 3. **PID_HOTEND** - калибровка PID сопла
