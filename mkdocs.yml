@@ -12,6 +12,7 @@ nav:
   - Софт:
     - Получение Root доступа: root.md
     - Подключение к принтеру по SSH: ssh.md
+    - Запуск и обновление Installation Helper Script: helperscript.md
   - Добавление информации: contribution.md
 
 markdown_extensions:
