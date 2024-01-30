@@ -7,12 +7,12 @@ theme:
   language: ru
 
 nav:
-  - index.md
+  - Главная: index.md
   - Обслуживание и профилактика: care.md
-  - Добавление информации: contribution.md
   - Софт:
     - Получение Root доступа: root.md
     - Подключение к принтеру по SSH: ssh.md
+  - Добавление информации: contribution.md
 
 markdown_extensions:
   - attr_list
