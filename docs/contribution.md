@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Добавление информации
 
 База знаний создается сообществом, и каждый может внести изменения или добавить новую информацию. Статьи пишутся с оформлением [Markdown](https://www.markdownguide.org/basic-syntax/), но можно использовать [дополнительные элементы](https://squidfunk.github.io/mkdocs-material/reference/) MKDocs и темы Material

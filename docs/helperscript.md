@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Запуск и обновление Installation Helper Script
 
 Installation Helper Script позволяет после получения [root доступа](root.md) и подключению к принтеру по [SSH](ssh.md), 

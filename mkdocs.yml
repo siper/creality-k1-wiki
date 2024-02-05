@@ -7,6 +7,7 @@ theme:
   language: ru
   logo: assets/main_icon.png
   favicon: assets/favicon.png
+  custom_dir: overrides
 
 nav:
   - Главная: index.md

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 # Получение Root доступа
 
 Для установки Moonraker, Fluidd, Mainsail и т.д, а так же для печати напрямую из Orca Slicer требуется получить Root доступ.
