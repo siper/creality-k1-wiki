@@ -5,6 +5,8 @@ site_url: https://k1wiki.ru
 theme: 
   name: material
   language: ru
+  icon: assets/main_icon.png
+  favicon: assets/favicon.png
 
 nav:
   - Главная: index.md
